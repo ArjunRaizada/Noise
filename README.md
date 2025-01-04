@@ -94,3 +94,6 @@ def process_audio():
 
 ## Notes
 - Replace `device_indices` with indices corresponding to your preferred input devices.
+
+## Author
+- Arjun
